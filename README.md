@@ -4,9 +4,9 @@ Ranking CJK characters according to stroke and radical complexity
 
 I tried to come up with a way to rank Chinese characters according to difficulty, while at the same time weighing them according to frequency.
 
-The result is this table:
+The result is in finaltable.xlsx
 
-The code is available in my GitHub.
+The code is in Hanzi.ipynb
 
 For character decompositions, I referred to 
 
