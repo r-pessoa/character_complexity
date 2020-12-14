@@ -10,11 +10,11 @@ The result is in finaltable.xlsx
 
 The code is in Hanzi.ipynb
 
-For character decompositions, I referred to 
+For character decompositions (cjk_decomp_full.py), I referred to 
 
 [https://archive.codeplex.com/?p=cjkdecomp](https://archive.codeplex.com/?p=cjkdecomp)
 
-For the 1,000 most frequent characters, I referred to data from 
+For the 1,000 most frequent characters (1000freq.csv, frequent_characters.py), I referred to data from 
 
 [https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO](https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
 
