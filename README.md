@@ -20,4 +20,4 @@ The formula I used for ranking character by easiness was:
 
 [equation]("http://www.sciweavers.org/tex2img.php?eq=%5Csum%5Climits_%7Bi%3D1%7D%5E%7Bc%7D%20f_i%20%5Cover%20c%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0")
 
-where $f_i$ is the frequency count for each stroke and radical and c is stroke and radical count. Note that the numerator is linear, while the denominator is exponential - I decided to penalize characters exponentially for having a high stroke count. Of course, if you want to calculate the complexity, just take the inverse.
+where f_i is the frequency count for each stroke and radical and c is stroke and radical count. Note that the numerator is linear, while the denominator is exponential - I decided to penalize characters exponentially for having a high stroke count. Of course, if you want to calculate the complexity, just take the inverse.
