@@ -2,7 +2,9 @@
 # character_complexity
 Ranking CJK characters according to stroke and radical complexity
 
-I tried to come up with a way to rank Chinese characters according to difficulty, while at the same time weighing them according to frequency.
+Context: When teaching/learning Chinese characters, there is a tradeoff between necessity and complexity. Some basic words （谢谢, 跳舞）are represented by some rather difficult characters for a beginner. On the other hand, some less relevant characters from a beginner's vocabulary perspective are not only simpler, but also represent buiding blocks for more complex characters (目，木，口，土）.
+
+In this project, I tried to come up with a way to rank Chinese characters according to difficulty (complexity), while at the same time weighing them according to frequency (necessity).
 
 The result is in finaltable.xlsx
 
