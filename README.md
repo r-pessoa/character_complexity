@@ -18,6 +18,6 @@ For the 1,000 most frequent characters, I referred to data from
 
 The formula I used for ranking character by easiness was:
 
-sum(f_i)/c\**2
+sum(F_i)/C\**2
 
-where f_i is the frequency count for each stroke and radical and c is stroke and radical count. Note that the numerator is linear, while the denominator is exponential - I decided to penalize characters exponentially for having a high stroke count. Of course, if you want to calculate the complexity, just take the inverse.
+where F_i is the frequency count for each stroke and radical, and C is stroke and radical count. Note that the numerator is linear, while the denominator is exponential - I decided to penalize characters exponentially for having a high stroke count. Of course, if you want to calculate the complexity, just take the inverse.
