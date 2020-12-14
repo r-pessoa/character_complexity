@@ -2,12 +2,7 @@
 # character_complexity
 Ranking CJK characters according to stroke and radical complexity
 
-
-I've been learning Chinese for over 10 years, and in the meantime I've also taught and translated some. Characters are arguably the most alluring part of the Chinese language, and also one of the most difficult to learn. To this day, I still forget how to write a lot of them.
-
-While I was teaching, I was constantly faced with the tradeoff: tell students to learn the characters of every new word, however hard they are to memorize (谢谢，跳舞), and risk demotivating them, or give them only the easy ones at first, including characters for which they haven't learned the words yet (人，口，木，保), and risk alienating them.
-
-With this in mind, I tried to come up with a way to rank Chinese characters according to difficulty, while at the same time weighing them according to frequency.
+I tried to come up with a way to rank Chinese characters according to difficulty, while at the same time weighing them according to frequency.
 
 The result is this table:
 
